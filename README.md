@@ -92,9 +92,7 @@
 *   **前端**: HTML5, CSS3, JavaScript (ES6)
 *   **表單**: Google Forms
 *   **數據儲存**: [Script Properties Service](https://developers.google.com/apps-script/guides/properties)
-
 ---
-**平台未來發展參考** : [improvement suggestion.md]
 
 ## ©️ 作者
 
